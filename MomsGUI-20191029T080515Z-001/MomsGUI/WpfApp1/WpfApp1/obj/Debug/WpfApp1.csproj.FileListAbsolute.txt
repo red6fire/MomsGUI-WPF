@@ -1,0 +1,58 @@
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bruger\Desktop\weatherGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mathias PC\Desktop\weatherGUI\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bruger\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\vmware-host\Shared Folders\Desktop\MomsGUI-20191029T080515Z-001\MomsGUI\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
